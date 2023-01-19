@@ -2,8 +2,10 @@
 
 ## CMSE 495 Spring '23 Capstone Project
 
-Team Members:
-Aakila Mohammed Rafih
-Jack Nugent
-Tanmay Patel
+Team Members:<br>
+Aakila Mohammed Rafih<br>
+Jack Nugent<br>
+Tanmay Patel<br>
 Sneha Sundar
+
+
