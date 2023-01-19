@@ -1,2 +1,9 @@
-# Capstone_HumanTrafficking
-CMSE495 Spring '23 Capstone - QSIDE Human Trafficking
+# QSIDE - Human Trafficking
+
+## CMSE 495 Spring '23 Capstone Project
+
+Team Members:
+Aakila Mohammed Rafih
+Jack Nugent
+Tanmay Patel
+Sneha Sundar
