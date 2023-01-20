@@ -1,11 +1,23 @@
 # QSIDE - Human Trafficking
 
-## CMSE 495 Spring '23 Capstone Project
+### CMSE 495 Spring '23 Capstone Project<br>
+Michigan State University's Data Science Capstone course.
 
-Team Members:<br>
+---
+#### Team Members:
 Aakila Mohammed Rafih<br>
 Jack Nugent<br>
 Tanmay Patel<br>
 Sneha Sundar
+
+---
+#### Sponsor:
+Jude Higdon (jude@qsideinstitute.org)
+
+---
+#### Project Goals:
+- Discover the extent of human trafficking in the United States.
+- Determine what data is available to measure the extent of human trafficking.
+- Determine the problem areas and biggest factors correlating to human trafficking.
 
 
