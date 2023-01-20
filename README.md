@@ -13,6 +13,7 @@ Sneha Sundar
 ---
 #### Sponsor:
 Jude Higdon (jude@qsideinstitute.org)<br>
+
 QSIDE is a pre-eminent research-into-action organization applying a unique, innovative blend of mathematics, data science, and computation to social justice.
 
 ---
