@@ -17,8 +17,8 @@ Jude Higdon (jude@qsideinstitute.org)<br>
 QSIDE is a pre-eminent research-into-action organization applying a unique, innovative blend of mathematics, data science, and computation to social justice.
 
 ---
-#### Project Goals:
-- Discover the extent of human trafficking in the United States.
+#### Project Goals/Expected Outcomes:
+- Discover the extent of human trafficking in the United States, using simple models.
 - Determine what data is available to measure the extent of human trafficking.
 - Determine the problem areas and biggest factors correlating to human trafficking.
 
