@@ -19,7 +19,7 @@ QSIDE is a pre-eminent research-into-action organization applying a unique, inno
 ---
 #### Project Goals/Expected Outcomes:
 - Discover the extent of human trafficking in the United States, using simple models.
-- Determine what data is available to measure the extent of human trafficking.
+- Curate a list of clean source data to measure the extent of human trafficking.
 - Determine the problem areas and biggest factors correlating to human trafficking.
 
 
