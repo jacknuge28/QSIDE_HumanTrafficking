@@ -1,6 +1,6 @@
 # QSIDE - Human Trafficking
 
-### CMSE 495 Spring 2023 Capstone Project<br>
+### CMSE 495 Spring '23 Capstone Project<br>
 Michigan State University's Data Science Capstone course.
 
 ---
