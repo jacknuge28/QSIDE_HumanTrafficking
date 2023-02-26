@@ -22,4 +22,6 @@ QSIDE is a pre-eminent research-into-action organization applying a unique, inno
 - Curate a list of clean source data to measure the extent of human trafficking.
 - Determine the problem areas and biggest factors correlating to human trafficking.
 
-
+---
+#### Video Links:
+- [Project Proposal](https://youtu.be/sLI0I4gfVz4)
