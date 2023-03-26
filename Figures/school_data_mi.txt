@@ -1,0 +1,541 @@
+26 01890 Adams Township School District                                               2810      590       55 sd21-mi.txt 30NOV2022 
+26 01920 Addison Community Schools                                                    7831     1155      155 sd21-mi.txt 30NOV2022 
+26 01950 Adrian City School District                                                 29238     4467      778 sd21-mi.txt 30NOV2022 
+26 01980 Airport Community School District                                           20903     3556      546 sd21-mi.txt 30NOV2022 
+26 02010 Akron-Fairgrove Schools                                                      2864      417       71 sd21-mi.txt 30NOV2022 
+26 21810 Alanson Public Schools                                                       3959      625       91 sd21-mi.txt 30NOV2022 
+26 02040 Alba Public Schools                                                          1454      229       31 sd21-mi.txt 30NOV2022 
+26 02160 Alcona Community Schools                                                     6740      642      144 sd21-mi.txt 30NOV2022 
+26 02190 Algonac Community School District                                           14445     1740      227 sd21-mi.txt 30NOV2022 
+26 02220 Allegan Public Schools                                                      17969     2991      435 sd21-mi.txt 30NOV2022 
+26 02520 Allen Park Public Schools                                                   20367     3190      274 sd21-mi.txt 30NOV2022 
+26 02550 Allendale Public School District                                            26835     3340      188 sd21-mi.txt 30NOV2022 
+26 02640 Alma Public Schools                                                         15266     2784      545 sd21-mi.txt 30NOV2022 
+26 02670 Almont Community Schools                                                     8985     1476       71 sd21-mi.txt 30NOV2022 
+26 02730 Alpena Public Schools                                                       30394     4174      890 sd21-mi.txt 30NOV2022 
+26 02790 Anchor Bay School District                                                  35947     5884      445 sd21-mi.txt 30NOV2022 
+26 02820 Ann Arbor Public Schools                                                   175595    20310     1708 sd21-mi.txt 30NOV2022 
+26 03240 Armada Area Schools                                                          8998     1428      104 sd21-mi.txt 30NOV2022 
+26 03270 Arvon Township School District                                                496       47        7 sd21-mi.txt 30NOV2022 
+26 03480 Ashley Community Schools                                                     1786      279       54 sd21-mi.txt 30NOV2022 
+26 03510 Athens Area Schools                                                          4697      803       92 sd21-mi.txt 30NOV2022 
+26 03540 Atherton Community Schools                                                   7375     1106      252 sd21-mi.txt 30NOV2022 
+26 03570 Atlanta Community Schools                                                    3295      330      106 sd21-mi.txt 30NOV2022 
+26 03600 Au Gres-Sims School District                                                 3937      446      105 sd21-mi.txt 30NOV2022 
+26 03660 Autrain-Onota Public Schools                                                  853       73       13 sd21-mi.txt 30NOV2022 
+26 03690 Avondale School District                                                    27543     3569      281 sd21-mi.txt 30NOV2022 
+26 00017 Bad Axe Public Schools                                                       6235      942      183 sd21-mi.txt 30NOV2022 
+26 03810 Baldwin Community Schools                                                    9046      927      372 sd21-mi.txt 30NOV2022 
+26 03870 Bangor Public Schools                                                        7298     1339      318 sd21-mi.txt 30NOV2022 
+26 03960 Bangor Township School District 8                                             246       40        8 sd21-mi.txt 30NOV2022 
+26 03900 Bangor Township Schools                                                     13927     1912      300 sd21-mi.txt 30NOV2022 
+26 03990 Baraga Area Schools                                                          3753      471       96 sd21-mi.txt 30NOV2022 
+26 04020 Bark River-Harris School District                                            3387      602       86 sd21-mi.txt 30NOV2022 
+26 04170 Bath Community Schools                                                       8940     1259      139 sd21-mi.txt 30NOV2022 
+26 00005 Battle Creek Public Schools                                                 41684     7281     2023 sd21-mi.txt 30NOV2022 
+26 04260 Bay City School District                                                    69245    10413     1646 sd21-mi.txt 30NOV2022 
+26 04290 Beal City Public Schools                                                     2813      477       44 sd21-mi.txt 30NOV2022 
+26 04320 Bear Lake School District                                                    2186      338       72 sd21-mi.txt 30NOV2022 
+26 04350 Beaver Island Community School                                                526       51        5 sd21-mi.txt 30NOV2022 
+26 04440 Beaverton Rural Schools                                                     10024     1425      312 sd21-mi.txt 30NOV2022 
+26 04470 Bedford Public Schools                                                      32241     5324      385 sd21-mi.txt 30NOV2022 
+26 04500 Beecher Community School District                                            8402     1685      735 sd21-mi.txt 30NOV2022 
+26 04530 Belding Area School District                                                13161     2320      392 sd21-mi.txt 30NOV2022 
+26 04620 Bellaire Public Schools                                                      3871      430       61 sd21-mi.txt 30NOV2022 
+26 04650 Bellevue Community Schools                                                   5424      864      125 sd21-mi.txt 30NOV2022 
+26 04740 Bendle Public Schools                                                        5681      964      296 sd21-mi.txt 30NOV2022 
+26 04800 Bentley Community Schools                                                    6664     1038      211 sd21-mi.txt 30NOV2022 
+26 04830 Benton Harbor Area Schools                                                  28958     5418     2224 sd21-mi.txt 30NOV2022 
+26 04950 Benzie County Central School                                                14908     2074      291 sd21-mi.txt 30NOV2022 
+26 05010 Berkley School District                                                     27611     4337      242 sd21-mi.txt 30NOV2022 
+26 05100 Berlin Township School District 3                                             291       58       13 sd21-mi.txt 30NOV2022 
+26 05430 Berrien Springs Public Schools                                              12891     1928      363 sd21-mi.txt 30NOV2022 
+26 00006 Bessemer Area School District                                                2936      401       79 sd21-mi.txt 30NOV2022 
+26 05690 Big Bay de Noc School District                                               2186      212       45 sd21-mi.txt 30NOV2022 
+26 00105 Big Jackson School District                                                   481       70       18 sd21-mi.txt 30NOV2022 
+26 05780 Big Rapids Public Schools                                                   15946     1941      301 sd21-mi.txt 30NOV2022 
+26 05820 Birch Run Area School District                                               8933     1347      160 sd21-mi.txt 30NOV2022 
+26 05850 Birmingham City School District                                             59530    10789      305 sd21-mi.txt 30NOV2022 
+26 06000 Blissfield Community Schools                                                 6879     1151      133 sd21-mi.txt 30NOV2022 
+26 06090 Bloomfield Hills School District                                            40391     7220      275 sd21-mi.txt 30NOV2022 
+26 00009 Bloomfield Township School District 7F                                        223       29        2 sd21-mi.txt 30NOV2022 
+26 06270 Bloomingdale Public School District                                          7277     1354      338 sd21-mi.txt 30NOV2022 
+26 06300 Bois Blanc Pines School District                                              101        2        1 sd21-mi.txt 30NOV2022 
+26 06500 Boyne City Public Schools                                                    8349     1135      129 sd21-mi.txt 30NOV2022 
+26 06510 Boyne Falls Public School District                                           1907      268       27 sd21-mi.txt 30NOV2022 
+26 06570 Brandon School District                                                     16895     2744      239 sd21-mi.txt 30NOV2022 
+26 06600 Brandywine Community Schools                                                 9004     1431      239 sd21-mi.txt 30NOV2022 
+26 06630 Breckenridge Community Schools                                               5375      805      160 sd21-mi.txt 30NOV2022 
+26 06720 Breitung Township Schools                                                   10928     1601      169 sd21-mi.txt 30NOV2022 
+26 06780 Bridgeport-Spaulding Community School District                              15146     2374      724 sd21-mi.txt 30NOV2022 
+26 06840 Bridgman Public Schools                                                      5009      792      126 sd21-mi.txt 30NOV2022 
+26 06870 Brighton Area Schools                                                       38213     5915      209 sd21-mi.txt 30NOV2022 
+26 06900 Brimley Area Schools                                                         3289      561      106 sd21-mi.txt 30NOV2022 
+26 06930 Britton Deerfield School District                                            3779      574       55 sd21-mi.txt 30NOV2022 
+26 06960 Bronson Community School District                                            7397     1391      241 sd21-mi.txt 30NOV2022 
+26 07040 Brown City Community School District                                         5096      883      202 sd21-mi.txt 30NOV2022 
+26 07140 Buchanan Community School District                                          10757     1750      283 sd21-mi.txt 30NOV2022 
+26 07170 Buckley Community School District                                            3021      559       93 sd21-mi.txt 30NOV2022 
+26 07320 Bullock Creek School District                                                9470     1534      225 sd21-mi.txt 30NOV2022 
+26 07410 Burr Oak Community School District                                           1774      370       75 sd21-mi.txt 30NOV2022 
+26 07470 Burt Township School District                                                 410       34        4 sd21-mi.txt 30NOV2022 
+26 07530 Byron Area Schools                                                           6350     1021       98 sd21-mi.txt 30NOV2022 
+26 07560 Byron Center Public Schools                                                 28141     5759      278 sd21-mi.txt 30NOV2022 
+26 07590 Cadillac Area Public Schools                                                21775     3547      594 sd21-mi.txt 30NOV2022 
+26 07620 Caledonia Community Schools                                                 27244     5518      249 sd21-mi.txt 30NOV2022 
+26 07690 Calumet Public Schools                                                       8092     1438      235 sd21-mi.txt 30NOV2022 
+26 07710 Camden-Frontier School District                                              3801      714      236 sd21-mi.txt 30NOV2022 
+26 07800 Capac Community School District                                              8536     1494      154 sd21-mi.txt 30NOV2022 
+26 07890 Carman-Ainsworth Community School District                                  31239     4729     1341 sd21-mi.txt 30NOV2022 
+26 08010 Carney-Nadeau Public Schools                                                 1472      212       33 sd21-mi.txt 30NOV2022 
+26 08040 Caro Community Schools                                                      11263     1618      316 sd21-mi.txt 30NOV2022 
+26 08070 Carrollton School District                                                   5734      889      363 sd21-mi.txt 30NOV2022 
+26 08130 Carson City-Crystal Area School District                                    13173     1495      234 sd21-mi.txt 30NOV2022 
+26 08160 Carsonville-Port Sanilac School District                                     3430      520      111 sd21-mi.txt 30NOV2022 
+26 08280 Caseville Public Schools                                                     2029      166       22 sd21-mi.txt 30NOV2022 
+26 08400 Cass City Public Schools                                                     8053     1368      305 sd21-mi.txt 30NOV2022 
+26 08430 Cassopolis Public Schools                                                    8294     1213      201 sd21-mi.txt 30NOV2022 
+26 08520 Cedar Springs Public Schools                                                21074     3950      385 sd21-mi.txt 30NOV2022 
+26 08580 Center Line Public Schools                                                  20248     3115      717 sd21-mi.txt 30NOV2022 
+26 08610 Central Lake Public Schools                                                  3344      420       66 sd21-mi.txt 30NOV2022 
+26 08640 Central Montcalm Public Schools                                             11079     1856      323 sd21-mi.txt 30NOV2022 
+26 08670 Centreville Public Schools                                                   4635      837      105 sd21-mi.txt 30NOV2022 
+26 08730 Charlevoix Public Schools                                                    8512     1031      108 sd21-mi.txt 30NOV2022 
+26 08770 Charlotte Public Schools                                                    19239     3056      367 sd21-mi.txt 30NOV2022 
+26 08880 Chassell Township School District                                            1875      362       28 sd21-mi.txt 30NOV2022 
+26 08910 Cheboygan Area Schools                                                      13909     1684      317 sd21-mi.txt 30NOV2022 
+26 08940 Chelsea School District                                                     16759     2706      116 sd21-mi.txt 30NOV2022 
+26 09150 Chesaning Union Schools                                                     11340     1777      314 sd21-mi.txt 30NOV2022 
+26 09560 Chippewa Hills School District                                              19596     2666      469 sd21-mi.txt 30NOV2022 
+26 09570 Chippewa Valley Schools                                                    105757    16943     1587 sd21-mi.txt 30NOV2022 
+26 09630 Church School District                                                        102        9        1 sd21-mi.txt 30NOV2022 
+26 09750 Clare Public Schools                                                         8693     1618      318 sd21-mi.txt 30NOV2022 
+26 09840 Clarenceville School District                                               11647     1397      239 sd21-mi.txt 30NOV2022 
+26 09900 Clarkston Community School District                                         44701     7923      389 sd21-mi.txt 30NOV2022 
+26 09930 Clawson City School District                                                11510     1163       62 sd21-mi.txt 30NOV2022 
+26 10020 Climax-Scotts Community School District                                      3821      617       62 sd21-mi.txt 30NOV2022 
+26 10050 Clinton Community Schools                                                    6120      988      104 sd21-mi.txt 30NOV2022 
+26 10080 Clintondale Community Schools                                               15354     2587      661 sd21-mi.txt 30NOV2022 
+26 10110 Clio Area School District                                                   19942     2985      456 sd21-mi.txt 30NOV2022 
+26 10140 Coldwater Community Schools                                                 23638     3686      509 sd21-mi.txt 30NOV2022 
+26 10200 Coleman Community School District                                            5852      888      180 sd21-mi.txt 30NOV2022 
+26 10230 Colfax Township School District 1F                                            181       19        4 sd21-mi.txt 30NOV2022 
+26 10380 Coloma Community Schools                                                     9247     1419      272 sd21-mi.txt 30NOV2022 
+26 10410 Colon Community School District                                              5556     1017      196 sd21-mi.txt 30NOV2022 
+26 06990 Columbia School District                                                    11570     1573      183 sd21-mi.txt 30NOV2022 
+26 10620 Comstock Park Public Schools                                                14546     2418      301 sd21-mi.txt 30NOV2022 
+26 10590 Comstock Public Schools                                                     16365     2435      558 sd21-mi.txt 30NOV2022 
+26 10650 Concord Community Schools                                                    4961      903      102 sd21-mi.txt 30NOV2022 
+26 10750 Constantine Public School District                                           7627     1275      182 sd21-mi.txt 30NOV2022 
+26 10830 Coopersville Public School District                                         14330     2991      205 sd21-mi.txt 30NOV2022 
+26 10860 Corunna Public School District                                               9545     1362      154 sd21-mi.txt 30NOV2022 
+26 10980 Covert Public Schools                                                        2789      547      125 sd21-mi.txt 30NOV2022 
+26 11030 Crawford AuSable Schools                                                    11567     1574      350 sd21-mi.txt 30NOV2022 
+26 00016 Crestwood School District                                                   31531     5926     1670 sd21-mi.txt 30NOV2022 
+26 11140 Croswell-Lexington Community School District                                13371     1984      355 sd21-mi.txt 30NOV2022 
+26 11400 Dansville Schools                                                            4766      823       65 sd21-mi.txt 30NOV2022 
+26 11430 Davison Community Schools                                                   32861     5318      639 sd21-mi.txt 30NOV2022 
+26 11970 DeTour Area Schools                                                          1948      177       45 sd21-mi.txt 30NOV2022 
+26 11550 DeWitt Public Schools                                                       15410     3046       99 sd21-mi.txt 30NOV2022 
+26 11600 Dearborn City School District                                              118064    24186     7497 sd21-mi.txt 30NOV2022 
+26 11610 Dearborn Heights School District 7                                          13075     2221      574 sd21-mi.txt 30NOV2022 
+26 11670 Decatur Public Schools                                                       5307      886      131 sd21-mi.txt 30NOV2022 
+26 11700 Deckerville Community School District                                        4015      634      138 sd21-mi.txt 30NOV2022 
+26 11910 Delton-Kellogg School District                                              11672     1542      198 sd21-mi.txt 30NOV2022 
+26 01103 Detroit Public Schools Community District                                  632522   116285    46730 sd21-mi.txt 30NOV2022 
+26 12030 Dexter Community School District                                            21465     4111      106 sd21-mi.txt 30NOV2022 
+26 26940 Dollar Bay-Tamarack City Area Schools                                        1875      375       43 sd21-mi.txt 30NOV2022 
+26 12150 Dowagiac Union Schools                                                      14882     2305      498 sd21-mi.txt 30NOV2022 
+26 12240 Dryden Community Schools                                                     4513      664       65 sd21-mi.txt 30NOV2022 
+26 12300 Dundee Community Schools                                                    10175     1803      142 sd21-mi.txt 30NOV2022 
+26 12330 Durand Area Schools                                                         10504     1493      171 sd21-mi.txt 30NOV2022 
+26 12420 East China School District                                                  29119     4565      429 sd21-mi.txt 30NOV2022 
+26 12450 East Detroit Public Schools                                                 39562     7211     1944 sd21-mi.txt 30NOV2022 
+26 12480 East Grand Rapids Public School District                                    12110     3015       54 sd21-mi.txt 30NOV2022 
+26 12540 East Jackson Community Schools                                               8222     1310      260 sd21-mi.txt 30NOV2022 
+26 12560 East Jordan Public Schools                                                   6568     1066      135 sd21-mi.txt 30NOV2022 
+26 12600 East Lansing School District                                                54337     4034      474 sd21-mi.txt 30NOV2022 
+26 12660 Easton Township School District 6                                             407       66       11 sd21-mi.txt 30NOV2022 
+26 12690 Eaton Rapids Public Schools                                                 17099     2832      286 sd21-mi.txt 30NOV2022 
+26 12810 Eau Claire Public Schools                                                    3367      585      118 sd21-mi.txt 30NOV2022 
+26 12930 Ecorse Public School District                                                8572     1665      669 sd21-mi.txt 30NOV2022 
+26 12990 Edwardsburg Public Schools                                                  12340     2206      215 sd21-mi.txt 30NOV2022 
+26 13050 Elk Rapids Schools                                                           8871     1197      123 sd21-mi.txt 30NOV2022 
+26 13090 Elkton-Pigeon-Bay Port Schools                                               6600     1005      147 sd21-mi.txt 30NOV2022 
+26 13110 Ellsworth Community Schools                                                  1651      253       25 sd21-mi.txt 30NOV2022 
+26 13140 Elm River Township School District                                            204       12        1 sd21-mi.txt 30NOV2022 
+26 15600 Engadine Consolidated Schools                                                1964      247       69 sd21-mi.txt 30NOV2022 
+26 13500 Escanaba Area Public Schools                                                19856     2962      470 sd21-mi.txt 30NOV2022 
+26 13530 Essexville-Hampton Public Schools                                            8579     1401      145 sd21-mi.txt 30NOV2022 
+26 13560 Evart Public Schools                                                         6692     1076      202 sd21-mi.txt 30NOV2022 
+26 00014 Ewen-Trout Creek Consolidated Schools                                        2183      192       32 sd21-mi.txt 30NOV2022 
+26 13680 Excelsior Township School District 1                                          362       64       11 sd21-mi.txt 30NOV2022 
+26 10560 Fairview Area School District                                                2836      415      100 sd21-mi.txt 30NOV2022 
+26 14070 Farmington Public School District                                           89009    12411      698 sd21-mi.txt 30NOV2022 
+26 14100 Farwell Area Schools                                                        11051     1554      391 sd21-mi.txt 30NOV2022 
+26 14230 Fennville Public Schools                                                     9457     1629      230 sd21-mi.txt 30NOV2022 
+26 14250 Fenton Area Public Schools                                                  21516     3402      250 sd21-mi.txt 30NOV2022 
+26 14280 Ferndale Public Schools                                                     23771     2470      268 sd21-mi.txt 30NOV2022 
+26 14460 Fitzgerald Public Schools                                                   17573     3084      950 sd21-mi.txt 30NOV2022 
+26 07080 Flat Rock Community Schools                                                 11300     2075      300 sd21-mi.txt 30NOV2022 
+26 14520 Flint City School District                                                  80792    14569     6111 sd21-mi.txt 30NOV2022 
+26 14550 Flushing Community Schools                                                  27118     4633      533 sd21-mi.txt 30NOV2022 
+26 14570 Forest Area Community Schools                                                4767      800      141 sd21-mi.txt 30NOV2022 
+26 14610 Forest Hills Public Schools                                                 52147    10939      379 sd21-mi.txt 30NOV2022 
+26 11190 Forest Park School District                                                  4327      528      103 sd21-mi.txt 30NOV2022 
+26 14700 Fowler Public Schools                                                        2550      459       21 sd21-mi.txt 30NOV2022 
+26 14730 Fowlerville Community Schools                                               16873     2880      204 sd21-mi.txt 30NOV2022 
+26 14760 Frankenmuth School District                                                  9613     1466       77 sd21-mi.txt 30NOV2022 
+26 14790 Frankfort-Elberta Area Schools                                               3650      364       62 sd21-mi.txt 30NOV2022 
+26 14820 Fraser Public Schools                                                       29024     4162      584 sd21-mi.txt 30NOV2022 
+26 15060 Freeland Community School District                                          12827     2150      173 sd21-mi.txt 30NOV2022 
+26 15150 Fremont Public School District                                              14279     2499      337 sd21-mi.txt 30NOV2022 
+26 15390 Fruitport Community Schools                                                 19643     3309      323 sd21-mi.txt 30NOV2022 
+26 15420 Fulton Schools                                                               4496      648      103 sd21-mi.txt 30NOV2022 
+26 15450 Galesburg-Augusta Community School District                                  7267     1267      162 sd21-mi.txt 30NOV2022 
+26 15510 Ganges School District 4                                                      410       43        7 sd21-mi.txt 30NOV2022 
+26 15540 Garden City School District                                                 27613     4013      645 sd21-mi.txt 30NOV2022 
+26 15730 Gaylord Community Schools                                                   21235     3408      450 sd21-mi.txt 30NOV2022 
+26 15750 Genesee School District                                                      2959      506      126 sd21-mi.txt 30NOV2022 
+26 15870 Gibraltar School District                                                   21833     3629      299 sd21-mi.txt 30NOV2022 
+26 15970 Gladstone Area Schools                                                       9766     1543      160 sd21-mi.txt 30NOV2022 
+26 15990 Gladwin Community Schools                                                   13576     1973      444 sd21-mi.txt 30NOV2022 
+26 16020 Glen Lake Community Schools                                                  5403      638       73 sd21-mi.txt 30NOV2022 
+26 16050 Gobles Public School District                                                5845     1001      129 sd21-mi.txt 30NOV2022 
+26 16080 Godfrey-Lee Public Schools                                                   7922     1654      341 sd21-mi.txt 30NOV2022 
+26 16110 Godwin Heights Public Schools                                               12252     2086      378 sd21-mi.txt 30NOV2022 
+26 16320 Goodrich Area Schools                                                       10932     1996       87 sd21-mi.txt 30NOV2022 
+26 16350 Grand Blanc Community Schools                                               51828     8696      819 sd21-mi.txt 30NOV2022 
+26 16380 Grand Haven Area Public Schools                                             44241     6984      532 sd21-mi.txt 30NOV2022 
+26 16410 Grand Ledge Public Schools                                                  35823     5356      341 sd21-mi.txt 30NOV2022 
+26 16440 Grand Rapids Public Schools                                                191494    28190     5839 sd21-mi.txt 30NOV2022 
+26 16470 Grandville Public Schools                                                   41135     7146      482 sd21-mi.txt 30NOV2022 
+26 16500 Grant Public School District                                                 9963     1911      237 sd21-mi.txt 30NOV2022 
+26 16560 Grant Township School District 2                                              245       22        3 sd21-mi.txt 30NOV2022 
+26 16830 Grass Lake Community Schools                                                 7110     1113       56 sd21-mi.txt 30NOV2022 
+26 17160 Greenville Public Schools                                                   24003     4194      551 sd21-mi.txt 30NOV2022 
+26 17220 Grosse Ile Township Schools                                                 10675     1794       77 sd21-mi.txt 30NOV2022 
+26 25740 Grosse Pointe Public Schools                                                52001     9188      516 sd21-mi.txt 30NOV2022 
+26 17250 Gull Lake Community Schools                                                 20268     3548      274 sd21-mi.txt 30NOV2022 
+26 14690 Gwinn Area Community Schools                                                10039     1705      358 sd21-mi.txt 30NOV2022 
+26 17340 Hagar Township School District 6                                              514       66       17 sd21-mi.txt 30NOV2022 
+26 17370 Hale Area Schools                                                            4501      503      139 sd21-mi.txt 30NOV2022 
+26 17400 Hamilton Community Schools                                                  15976     3008      164 sd21-mi.txt 30NOV2022 
+26 17520 Hamtramck Public Schools                                                    28136     6523     3040 sd21-mi.txt 30NOV2022 
+26 17550 Hancock Public Schools                                                       6874     1019      113 sd21-mi.txt 30NOV2022 
+26 17640 Hanover-Horton Schools                                                       6830     1076       91 sd21-mi.txt 30NOV2022 
+26 00007 Harbor Beach Community Schools                                               4337      674      109 sd21-mi.txt 30NOV2022 
+26 17700 Harbor Springs School District                                               7187      887       70 sd21-mi.txt 30NOV2022 
+26 17730 Harper Creek Community Schools                                              15329     2462      269 sd21-mi.txt 30NOV2022 
+26 17760 Harper Woods City Schools                                                    9322     1833      557 sd21-mi.txt 30NOV2022 
+26 17820 Harrison Community Schools                                                  12968     1679      545 sd21-mi.txt 30NOV2022 
+26 17860 Hart Public School District                                                  7781     1220      242 sd21-mi.txt 30NOV2022 
+26 17880 Hartford Public School District                                              6258     1232      247 sd21-mi.txt 30NOV2022 
+26 17910 Hartland Consolidated Schools                                               29875     5502      251 sd21-mi.txt 30NOV2022 
+26 17940 Haslett Public Schools                                                      16353     2619      192 sd21-mi.txt 30NOV2022 
+26 17970 Hastings Area School District                                               20038     3102      368 sd21-mi.txt 30NOV2022 
+26 18030 Hazel Park City School District                                             19164     2092      429 sd21-mi.txt 30NOV2022 
+26 18180 Hemlock Public School District                                               9090     1436      188 sd21-mi.txt 30NOV2022 
+26 18270 Hesperia Community Schools                                                   5429      920      197 sd21-mi.txt 30NOV2022 
+26 18330 Highland Park City Schools                                                   8883     1394      571 sd21-mi.txt 30NOV2022 
+26 18360 Hillman Community Schools                                                    3498      418      113 sd21-mi.txt 30NOV2022 
+26 18390 Hillsdale Community Schools                                                 14353     2246      425 sd21-mi.txt 30NOV2022 
+26 18420 Holland City School District                                                37931     5718      685 sd21-mi.txt 30NOV2022 
+26 18450 Holly Area School District                                                  28752     4770      454 sd21-mi.txt 30NOV2022 
+26 18480 Holt Public Schools                                                         30874     5233      614 sd21-mi.txt 30NOV2022 
+26 18510 Holton Public Schools                                                        6556     1158      183 sd21-mi.txt 30NOV2022 
+26 18540 Homer Community Schools                                                      4561      906      136 sd21-mi.txt 30NOV2022 
+26 18570 Hopkins Public Schools                                                       8837     1717      123 sd21-mi.txt 30NOV2022 
+26 18600 Houghton Lake Community School District                                     15012     1747      532 sd21-mi.txt 30NOV2022 
+26 28890 Houghton-Portage Township Schools                                           11057     1108      115 sd21-mi.txt 30NOV2022 
+26 18720 Howell Public Schools                                                       59348     8912      556 sd21-mi.txt 30NOV2022 
+26 18810 Hudson Area Schools                                                          5915     1047      180 sd21-mi.txt 30NOV2022 
+26 18840 Hudsonville Public School District                                          47323    10087      320 sd21-mi.txt 30NOV2022 
+26 18930 Huron School District                                                       14645     2574      287 sd21-mi.txt 30NOV2022 
+26 18990 Huron Valley Schools                                                        58830     9460      615 sd21-mi.txt 30NOV2022 
+26 19050 Ida Public School District                                                   7928     1383       70 sd21-mi.txt 30NOV2022 
+26 19100 Imlay City Community Schools                                                12110     1895      211 sd21-mi.txt 30NOV2022 
+26 19170 Inland Lakes Schools                                                         6006      706      115 sd21-mi.txt 30NOV2022 
+26 19250 Ionia Public Schools                                                        23904     3144      574 sd21-mi.txt 30NOV2022 
+26 19290 Ionia Township School District 2                                              945      173       45 sd21-mi.txt 30NOV2022 
+26 19410 Iron Mountain Public Schools                                                 7446     1167      201 sd21-mi.txt 30NOV2022 
+26 19470 Ironwood Area Schools                                                        7516      956      243 sd21-mi.txt 30NOV2022 
+26 19530 Ishpeming Public School District                                             6424      953      162 sd21-mi.txt 30NOV2022 
+26 19580 Ithaca Public Schools                                                        7271     1025      157 sd21-mi.txt 30NOV2022 
+26 19620 Jackson Public Schools                                                      53538     8788     1929 sd21-mi.txt 30NOV2022 
+26 19800 Jefferson Schools                                                           12340     1849      245 sd21-mi.txt 30NOV2022 
+26 19830 Jenison Public Schools                                                      28671     5213      198 sd21-mi.txt 30NOV2022 
+26 19890 Johannesburg-Lewiston Area School District                                   6018      753      137 sd21-mi.txt 30NOV2022 
+26 19920 Jonesville Community Schools                                                 5918      982      152 sd21-mi.txt 30NOV2022 
+26 19950 Kalamazoo Public School District                                           109273    15020     3418 sd21-mi.txt 30NOV2022 
+26 20010 Kaleva Norman Dickson School District                                        5688      768      158 sd21-mi.txt 30NOV2022 
+26 20050 Kalkaska Public Schools                                                     13233     2038      350 sd21-mi.txt 30NOV2022 
+26 20070 Kearsley Community Schools                                                  16685     2743      533 sd21-mi.txt 30NOV2022 
+26 20160 Kelloggsville Public Schools                                                13586     2341      473 sd21-mi.txt 30NOV2022 
+26 20280 Kenowa Hills Public Schools                                                 26184     4124      430 sd21-mi.txt 30NOV2022 
+26 20310 Kent City Community Schools                                                  8034     1624      220 sd21-mi.txt 30NOV2022 
+26 20340 Kentwood Public Schools                                                     70318    12180     1773 sd21-mi.txt 30NOV2022 
+26 20380 Kingsley Area Schools                                                        7948     1527      198 sd21-mi.txt 30NOV2022 
+26 20400 Kingston Community School District                                           3291      476       81 sd21-mi.txt 30NOV2022 
+26 00018 L'Anse Area Schools                                                          4555      654      124 sd21-mi.txt 30NOV2022 
+26 21870 L'Anse Creuse Public Schools                                                70809    10513     1316 sd21-mi.txt 30NOV2022 
+26 20550 Laingsburg Community School District                                         6116     1065       70 sd21-mi.txt 30NOV2022 
+26 20610 Lake City Area School District                                               8219     1288      252 sd21-mi.txt 30NOV2022 
+26 20670 Lake Fenton Community Schools                                               12407     1970      128 sd21-mi.txt 30NOV2022 
+26 20700 Lake Linden-Hubbell School District                                          3850      637      107 sd21-mi.txt 30NOV2022 
+26 20730 Lake Orion Community Schools                                                43679     7637      293 sd21-mi.txt 30NOV2022 
+26 32670 Lake Shore Public Schools                                                   22084     2750      275 sd21-mi.txt 30NOV2022 
+26 20820 Lakeshore School District                                                   17968     3035      267 sd21-mi.txt 30NOV2022 
+26 20910 Lakeview Community Schools                                                  10253     1839      364 sd21-mi.txt 30NOV2022 
+26 20880 Lakeview Public Schools                                                     19579     2621      241 sd21-mi.txt 30NOV2022 
+26 20850 Lakeview School District                                                    23637     4103      482 sd21-mi.txt 30NOV2022 
+26 20940 Lakeville Community Schools                                                 11742     1789      229 sd21-mi.txt 30NOV2022 
+26 20980 Lakewood Public Schools                                                     13131     2225      224 sd21-mi.txt 30NOV2022 
+26 21120 Lamphere Public Schools                                                     16365     1880      224 sd21-mi.txt 30NOV2022 
+26 21150 Lansing Public School District                                             118191    17420     4655 sd21-mi.txt 30NOV2022 
+26 21180 Lapeer Community Schools                                                    41712     6025      668 sd21-mi.txt 30NOV2022 
+26 21210 Lawrence Public School District                                              3907      721      111 sd21-mi.txt 30NOV2022 
+26 21240 Lawton Community School District                                             5823     1029      119 sd21-mi.txt 30NOV2022 
+26 21390 Leland Public School District                                                3501      396       38 sd21-mi.txt 30NOV2022 
+26 21420 Les Cheneaux Community Schools                                               2164      242       41 sd21-mi.txt 30NOV2022 
+26 21450 Leslie Public Schools                                                        7071     1217      139 sd21-mi.txt 30NOV2022 
+26 21570 Lincoln Consolidated School District                                        32744     5817      584 sd21-mi.txt 30NOV2022 
+26 21600 Lincoln Park Public Schools                                                 39824     7021     1660 sd21-mi.txt 30NOV2022 
+26 21690 Linden Community Schools                                                    19360     3210      240 sd21-mi.txt 30NOV2022 
+26 21750 Litchfield Community Schools                                                 3199      511      105 sd21-mi.txt 30NOV2022 
+26 21840 Livonia Public Schools                                                     113480    15915     1171 sd21-mi.txt 30NOV2022 
+26 22050 Lowell Area Schools                                                         22202     4330      277 sd21-mi.txt 30NOV2022 
+26 22200 Ludington Area School District                                              16160     2311      388 sd21-mi.txt 30NOV2022 
+26 22230 Mackinac Island Public Schools                                                587       53        4 sd21-mi.txt 30NOV2022 
+26 22260 Mackinaw City Public Schools                                                 1281      121       19 sd21-mi.txt 30NOV2022 
+26 22290 Madison Public Schools                                                      11847     1328      217 sd21-mi.txt 30NOV2022 
+26 22320 Madison School District                                                      7700      951      223 sd21-mi.txt 30NOV2022 
+26 22350 Mancelona Public Schools                                                     6848     1041      205 sd21-mi.txt 30NOV2022 
+26 22380 Manchester Community Schools                                                 7134     1063       63 sd21-mi.txt 30NOV2022 
+26 22410 Manistee Area Schools                                                       13030     1528      266 sd21-mi.txt 30NOV2022 
+26 22470 Manistique Area Schools                                                      7249      978      231 sd21-mi.txt 30NOV2022 
+26 22500 Manton Consolidated Schools                                                  5647     1141      209 sd21-mi.txt 30NOV2022 
+26 22620 Maple Valley Schools                                                         8038     1402      231 sd21-mi.txt 30NOV2022 
+26 22830 Mar Lee School District                                                      1600      287       25 sd21-mi.txt 30NOV2022 
+26 22740 Marcellus Community Schools                                                  5045      808      135 sd21-mi.txt 30NOV2022 
+26 22800 Marion Public Schools                                                        4086      585      112 sd21-mi.txt 30NOV2022 
+26 22860 Marlette Community Schools                                                   6408     1100      217 sd21-mi.txt 30NOV2022 
+26 00013 Marquette Area Public Schools                                               31699     3452      347 sd21-mi.txt 30NOV2022 
+26 22970 Marshall Public Schools                                                     24050     3995      670 sd21-mi.txt 30NOV2022 
+26 22980 Martin Public Schools                                                        4995      889       99 sd21-mi.txt 30NOV2022 
+26 23040 Marysville Public Schools                                                   13900     2324      198 sd21-mi.txt 30NOV2022 
+26 23100 Mason Consolidated Schools                                                   7507     1145      181 sd21-mi.txt 30NOV2022 
+26 23130 Mason County Central Schools                                                 8172     1348      260 sd21-mi.txt 30NOV2022 
+26 23160 Mason County Eastern District                                                4935      832      197 sd21-mi.txt 30NOV2022 
+26 23070 Mason Public Schools                                                        20105     3469      263 sd21-mi.txt 30NOV2022 
+26 23250 Mattawan Consolidated School                                                20620     4277      243 sd21-mi.txt 30NOV2022 
+26 23280 Mayville Community School District                                           6490     1007      179 sd21-mi.txt 30NOV2022 
+26 23310 McBain Rural Agricultural Schools                                            5790     1105      120 sd21-mi.txt 30NOV2022 
+26 23460 Melvindale-North Allen Park School District                                 19195     3732     1081 sd21-mi.txt 30NOV2022 
+26 23490 Memphis Community Schools                                                    5580      907       80 sd21-mi.txt 30NOV2022 
+26 23520 Mendon Community School District                                             3367      555       64 sd21-mi.txt 30NOV2022 
+26 23550 Menominee Area Public Schools                                               11919     1549      234 sd21-mi.txt 30NOV2022 
+26 23580 Meridian Public Schools                                                     10048     1395      194 sd21-mi.txt 30NOV2022 
+26 23610 Merrill Community Schools                                                    4740      712      124 sd21-mi.txt 30NOV2022 
+26 23670 Mesick Consolidated Schools                                                  5699      998      238 sd21-mi.txt 30NOV2022 
+26 23790 Michigan Center School District                                              7558     1251      147 sd21-mi.txt 30NOV2022 
+26 23830 Mid Peninsula School District                                                1651      207       21 sd21-mi.txt 30NOV2022 
+26 23820 Midland Public Schools                                                      53738     8566      894 sd21-mi.txt 30NOV2022 
+26 23850 Milan Area Schools                                                          16756     2232      140 sd21-mi.txt 30NOV2022 
+26 23910 Millington Community Schools                                                 8742     1297      240 sd21-mi.txt 30NOV2022 
+26 24000 Mio-AuSable Schools                                                          4889      720      192 sd21-mi.txt 30NOV2022 
+26 24120 Mona Shores Public School District                                          24022     3892      357 sd21-mi.txt 30NOV2022 
+26 24150 Monroe Public Schools                                                       49004     7444     1065 sd21-mi.txt 30NOV2022 
+26 12960 Montabella Community Schools                                                 7707     1363      222 sd21-mi.txt 30NOV2022 
+26 24180 Montague Area Public Schools                                                 8710     1502      204 sd21-mi.txt 30NOV2022 
+26 24420 Montrose Community Schools                                                   7689     1389      259 sd21-mi.txt 30NOV2022 
+26 24540 Moran Township School District                                               1036      113       19 sd21-mi.txt 30NOV2022 
+26 24570 Morenci Area Schools                                                         4199      761      130 sd21-mi.txt 30NOV2022 
+26 24600 Morley Stanwood Community Schools                                            9714     1614      339 sd21-mi.txt 30NOV2022 
+26 24630 Morrice Area Schools                                                         4222      699       56 sd21-mi.txt 30NOV2022 
+26 24690 Mount Clemens Community School District                                     22063     3268      838 sd21-mi.txt 30NOV2022 
+26 24720 Mount Morris Consolidated School District                                   14141     2272      652 sd21-mi.txt 30NOV2022 
+26 24750 Mount Pleasant City School District                                         40530     4555      676 sd21-mi.txt 30NOV2022 
+26 24810 Munising Public Schools                                                      5414      573       91 sd21-mi.txt 30NOV2022 
+26 24840 Muskegon City School District                                               37175     6152     1877 sd21-mi.txt 30NOV2022 
+26 24870 Muskegon Heights School District                                             9956     2055      835 sd21-mi.txt 30NOV2022 
+26 25400 N.I.C.E. Community Schools                                                   6873     1115       94 sd21-mi.txt 30NOV2022 
+26 24960 Napoleon Community Schools                                                   8363     1357      126 sd21-mi.txt 30NOV2022 
+26 25020 Negaunee Public Schools                                                      8683     1439       98 sd21-mi.txt 30NOV2022 
+26 25140 New Buffalo Area School District                                             4338      513       65 sd21-mi.txt 30NOV2022 
+26 25230 New Haven Community Schools                                                 20116     3211      374 sd21-mi.txt 30NOV2022 
+26 25290 New Lothrop Area Public School                                               3821      623       57 sd21-mi.txt 30NOV2022 
+26 25320 Newaygo Public School District                                              11184     1835      324 sd21-mi.txt 30NOV2022 
+26 25560 Niles Community School District                                             24972     3990      865 sd21-mi.txt 30NOV2022 
+26 25650 North Adams-Jerome Schools                                                   3308      488       82 sd21-mi.txt 30NOV2022 
+26 25680 North Branch Area Schools                                                   11322     2011      217 sd21-mi.txt 30NOV2022 
+26 29220 North Central Area Schools                                                   2935      420       71 sd21-mi.txt 30NOV2022 
+26 30480 North Dickinson County Schools                                               2261      299       56 sd21-mi.txt 30NOV2022 
+26 25780 North Huron School District                                                  4655      537      100 sd21-mi.txt 30NOV2022 
+26 25800 North Muskegon Public Schools                                                4109      679       45 sd21-mi.txt 30NOV2022 
+26 25920 Northport Public School District                                             2030      166       21 sd21-mi.txt 30NOV2022 
+26 25950 Northview Public School District                                            17045     2827      277 sd21-mi.txt 30NOV2022 
+26 25980 Northville Public Schools                                                   41797     7806      205 sd21-mi.txt 30NOV2022 
+26 26010 Northwest School District                                                   27844     3903      487 sd21-mi.txt 30NOV2022 
+26 26040 Norway-Vulcan Area Schools                                                   5389      807       91 sd21-mi.txt 30NOV2022 
+26 26100 Nottawa Community School                                                     1537      342       50 sd21-mi.txt 30NOV2022 
+26 26130 Novi Community School District                                              37619     7084      209 sd21-mi.txt 30NOV2022 
+26 26190 Oak Park City School District                                               22417     3513      716 sd21-mi.txt 30NOV2022 
+26 26220 Oakridge Public Schools                                                     11228     2272      396 sd21-mi.txt 30NOV2022 
+26 26280 Okemos Public Schools                                                       28030     4706      240 sd21-mi.txt 30NOV2022 
+26 26370 Olivet Community Schools                                                     6786     1056      109 sd21-mi.txt 30NOV2022 
+26 26400 Onaway Area Community School District                                        5409      650      151 sd21-mi.txt 30NOV2022 
+26 26430 Oneida Township School District 3                                              73       11        2 sd21-mi.txt 30NOV2022 
+26 26490 Onekama Consolidated Schools                                                 3322      412       59 sd21-mi.txt 30NOV2022 
+26 26520 Onsted Community Schools                                                     9296     1360      130 sd21-mi.txt 30NOV2022 
+26 26550 Ontonagon Area Schools                                                       3777      390       71 sd21-mi.txt 30NOV2022 
+26 26760 Orchard View Schools                                                        16797     2137      444 sd21-mi.txt 30NOV2022 
+26 26970 Oscoda Area Schools                                                         12720     1496      378 sd21-mi.txt 30NOV2022 
+26 27060 Otsego Public Schools                                                       14651     2493      253 sd21-mi.txt 30NOV2022 
+26 27150 Ovid-Elsie Area Schools                                                      9033     1498      192 sd21-mi.txt 30NOV2022 
+26 27180 Owendale-Gagetown Area Schools                                               1486      239       36 sd21-mi.txt 30NOV2022 
+26 27210 Owosso Public Schools                                                       24443     3880      555 sd21-mi.txt 30NOV2022 
+26 27240 Oxford Area Community Schools                                               26213     4856      256 sd21-mi.txt 30NOV2022 
+26 27420 Parchment School District                                                   10030     1596      219 sd21-mi.txt 30NOV2022 
+26 27660 Paw Paw Public School District                                              14020     2333      237 sd21-mi.txt 30NOV2022 
+26 27690 Peck Community School District                                               2542      446       72 sd21-mi.txt 30NOV2022 
+26 27720 Pellston Public Schools                                                      5212      672      114 sd21-mi.txt 30NOV2022 
+26 27810 Pennfield School District                                                    9048     1562      182 sd21-mi.txt 30NOV2022 
+26 27840 Pentwater Public School District                                             2424      262       48 sd21-mi.txt 30NOV2022 
+26 27900 Perry Public School District                                                 9200     1463      162 sd21-mi.txt 30NOV2022 
+26 27960 Pewamo-Westphalia Community School District                                  4734      961       52 sd21-mi.txt 30NOV2022 
+26 28020 Pickford Public Schools                                                      3541      369       52 sd21-mi.txt 30NOV2022 
+26 28140 Pinckney Community Schools                                                  25716     3491      164 sd21-mi.txt 30NOV2022 
+26 28170 Pinconning Area Schools                                                     11299     1656      214 sd21-mi.txt 30NOV2022 
+26 28200 Pine River Area Schools                                                      7778     1371      261 sd21-mi.txt 30NOV2022 
+26 28500 Pittsford Area Schools                                                       3327      546      100 sd21-mi.txt 30NOV2022 
+26 28530 Plainwell Community Schools                                                 15591     2760      270 sd21-mi.txt 30NOV2022 
+26 28560 Plymouth-Canton Community Schools                                          128736    21917     1090 sd21-mi.txt 30NOV2022 
+26 28740 Pontiac City School District                                                82109    12211     3320 sd21-mi.txt 30NOV2022 
+26 28830 Port Huron Area School District                                             67886    10592     2229 sd21-mi.txt 30NOV2022 
+26 28950 Portage Public Schools                                                      55413     9509      687 sd21-mi.txt 30NOV2022 
+26 29120 Portland Public School District                                             12961     2403      197 sd21-mi.txt 30NOV2022 
+26 29130 Posen Consolidated School District                                           1978      246       44 sd21-mi.txt 30NOV2022 
+26 29160 Potterville Public Schools                                                   6016      945      123 sd21-mi.txt 30NOV2022 
+26 29190 Powell Township Schools                                                       784       55       10 sd21-mi.txt 30NOV2022 
+26 27930 Public Schools of Petoskey                                                  19347     2886      260 sd21-mi.txt 30NOV2022 
+26 29250 Quincy Community School District                                             7934     1513      328 sd21-mi.txt 30NOV2022 
+26 29340 Rapid River Public Schools                                                   2685      351       43 sd21-mi.txt 30NOV2022 
+26 29370 Ravenna Public Schools                                                       6439     1254      106 sd21-mi.txt 30NOV2022 
+26 29400 Reading Community Schools                                                    5227      962      204 sd21-mi.txt 30NOV2022 
+26 29460 Redford Union School District                                               24581     3821      846 sd21-mi.txt 30NOV2022 
+26 29490 Reed City Area Public Schools                                               11017     1815      292 sd21-mi.txt 30NOV2022 
+26 29520 Reese Public Schools                                                         5097      772       99 sd21-mi.txt 30NOV2022 
+26 29540 Reeths-Puffer Schools                                                       21656     3765      394 sd21-mi.txt 30NOV2022 
+26 29580 Republic-Michigamme Schools                                                  1392      127       27 sd21-mi.txt 30NOV2022 
+26 29670 Richmond Community Schools                                                  12385     1919      145 sd21-mi.txt 30NOV2022 
+26 29760 River Rouge School District                                                  7784     1602      674 sd21-mi.txt 30NOV2022 
+26 29790 River Valley School District                                                 8413     1054      189 sd21-mi.txt 30NOV2022 
+26 29910 Riverview Community School District                                         12852     1851      212 sd21-mi.txt 30NOV2022 
+26 29940 Rochester Community School District                                         97276    17461      589 sd21-mi.txt 30NOV2022 
+26 30030 Rockford Public Schools                                                     44952     9449      397 sd21-mi.txt 30NOV2022 
+26 30060 Rogers City Area Schools                                                     5277      617      144 sd21-mi.txt 30NOV2022 
+26 30090 Romeo Community Schools                                                     37675     6368      549 sd21-mi.txt 30NOV2022 
+26 30120 Romulus Community Schools                                                   25663     4771     1233 sd21-mi.txt 30NOV2022 
+26 15830 Roscommon Area Public Schools                                               11484     1310      358 sd21-mi.txt 30NOV2022 
+26 30210 Roseville Community Schools                                                 43384     6765     1504 sd21-mi.txt 30NOV2022 
+26 30300 Royal Oak City School District                                              58554     5631      219 sd21-mi.txt 30NOV2022 
+26 30360 Rudyard Area Schools                                                         8230     1100      264 sd21-mi.txt 30NOV2022 
+26 30390 Saginaw City School District                                                52754     9709     4864 sd21-mi.txt 30NOV2022 
+26 30450 Saginaw Township Community Schools                                          41562     5696      881 sd21-mi.txt 30NOV2022 
+26 30660 Saline Area Schools                                                         28073     5462      253 sd21-mi.txt 30NOV2022 
+26 30780 Sand Creek Community Schools                                                 3513      548       66 sd21-mi.txt 30NOV2022 
+26 30840 Sandusky Community School District                                           6845     1076      186 sd21-mi.txt 30NOV2022 
+26 30930 Saranac Community Schools                                                    7153     1255      120 sd21-mi.txt 30NOV2022 
+26 30960 Saugatuck Public Schools                                                     5556      639       52 sd21-mi.txt 30NOV2022 
+26 30990 Sault Ste. Marie Area Schools                                               19632     2886      514 sd21-mi.txt 30NOV2022 
+26 31020 Schoolcraft Community Schools                                                5542     1022       64 sd21-mi.txt 30NOV2022 
+26 31320 Shelby Public Schools                                                        8247     1442      257 sd21-mi.txt 30NOV2022 
+26 31380 Shepherd Public School District                                              8599     1429      194 sd21-mi.txt 30NOV2022 
+26 00010 Sigel Township School District 3F                                              71       11        0 sd21-mi.txt 30NOV2022 
+26 00011 Sigel Township School District 4F                                              66       12        1 sd21-mi.txt 30NOV2022 
+26 31830 Sigel Township School District 6                                               90       19        3 sd21-mi.txt 30NOV2022 
+26 32070 Sodus Township School District 5                                              165       13        3 sd21-mi.txt 30NOV2022 
+26 32300 South Haven Public Schools                                                  12711     1807      334 sd21-mi.txt 30NOV2022 
+26 32220 South Lake Schools                                                          19743     2380      336 sd21-mi.txt 30NOV2022 
+26 32250 South Lyon Community Schools                                                53983    10083      465 sd21-mi.txt 30NOV2022 
+26 32280 South Redford School District                                               23615     3813      717 sd21-mi.txt 30NOV2022 
+26 32310 Southfield Public School District                                           73665     9450     1230 sd21-mi.txt 30NOV2022 
+26 32340 Southgate Community School District                                         31194     4197      564 sd21-mi.txt 30NOV2022 
+26 32370 Sparta Area Schools                                                         14714     2622      282 sd21-mi.txt 30NOV2022 
+26 32550 Spring Lake Public Schools                                                  13268     2541      116 sd21-mi.txt 30NOV2022 
+26 32610 Springport Public Schools                                                    5609     1000      132 sd21-mi.txt 30NOV2022 
+26 32640 St. Charles Community Schools                                                6255      910      137 sd21-mi.txt 30NOV2022 
+26 00012 St. Ignace Area Schools                                                      3717      442       88 sd21-mi.txt 30NOV2022 
+26 32820 St. Johns Public Schools                                                    19878     3265      293 sd21-mi.txt 30NOV2022 
+26 32850 St. Joseph Public Schools                                                   19208     2920      159 sd21-mi.txt 30NOV2022 
+26 32880 St. Louis Public Schools                                                    10715     1054      212 sd21-mi.txt 30NOV2022 
+26 32940 Standish-Sterling Community School District                                 11167     1674      342 sd21-mi.txt 30NOV2022 
+26 32970 Stanton Township Public Schools                                              1593      390       27 sd21-mi.txt 30NOV2022 
+26 33000 Stephenson Area Public Schools                                               4952      617       93 sd21-mi.txt 30NOV2022 
+26 33030 Stockbridge Community Schools                                               10334     1631      161 sd21-mi.txt 30NOV2022 
+26 33090 Sturgis Public Schools                                                      17177     3285      490 sd21-mi.txt 30NOV2022 
+26 33120 Summerfield School District                                                  4488      731       52 sd21-mi.txt 30NOV2022 
+26 00019 Superior Central Schools                                                     2158      317       56 sd21-mi.txt 30NOV2022 
+26 33360 Suttons Bay Public Schools                                                   5908      713       84 sd21-mi.txt 30NOV2022 
+26 33410 Swan Valley School District                                                  8885     1250      161 sd21-mi.txt 30NOV2022 
+26 33420 Swartz Creek Community Schools                                              24423     3942      581 sd21-mi.txt 30NOV2022 
+26 25350 Tahquamenon Area Schools                                                     6463      760      192 sd21-mi.txt 30NOV2022 
+26 33510 Tawas Area Schools                                                          10760     1284      252 sd21-mi.txt 30NOV2022 
+26 33540 Taylor School District                                                      68708    11149     2658 sd21-mi.txt 30NOV2022 
+26 33720 Tecumseh Public Schools                                                     18506     3088      249 sd21-mi.txt 30NOV2022 
+26 33750 Tekonsha Community Schools                                                   2006      293       42 sd21-mi.txt 30NOV2022 
+26 33810 Thornapple Kellogg School District                                          18529     3626      285 sd21-mi.txt 30NOV2022 
+26 33840 Three Rivers Community Schools                                              17989     3077      564 sd21-mi.txt 30NOV2022 
+26 33870 Traverse City Area Public Schools                                           89534    12924     1284 sd21-mi.txt 30NOV2022 
+26 33900 Trenton Public Schools                                                      17857     2609      204 sd21-mi.txt 30NOV2022 
+26 33930 Tri County Area Schools                                                     13815     2457      355 sd21-mi.txt 30NOV2022 
+26 34260 Troy School District                                                        70111    12563      476 sd21-mi.txt 30NOV2022 
+26 34380 Ubly Community Schools                                                       3904      628       84 sd21-mi.txt 30NOV2022 
+26 34410 Union City Community Schools                                                 6104     1108      156 sd21-mi.txt 30NOV2022 
+26 34440 Unionville-Sebewaing Area School District                                    5289      794       96 sd21-mi.txt 30NOV2022 
+26 34470 Utica Community Schools                                                    190177    29739     3215 sd21-mi.txt 30NOV2022 
+26 34560 Van Buren Public Schools                                                    49471     6698      962 sd21-mi.txt 30NOV2022 
+26 34680 Van Dyke Public Schools                                                     20950     4104     1384 sd21-mi.txt 30NOV2022 
+26 34620 Vanderbilt Area Schools                                                      2107      306       54 sd21-mi.txt 30NOV2022 
+26 34650 Vandercook Lake Public Schools                                               4767      761      134 sd21-mi.txt 30NOV2022 
+26 34710 Vassar Public Schools                                                        8886     1468      302 sd21-mi.txt 30NOV2022 
+26 34860 Verona Township School District 1F                                            180       26        1 sd21-mi.txt 30NOV2022 
+26 34920 Vestaburg Community Schools                                                  3821      677      112 sd21-mi.txt 30NOV2022 
+26 34950 Vicksburg Community Schools                                                 15829     2769      230 sd21-mi.txt 30NOV2022 
+26 35010 Wakefield-Marenisco School District                                          2455      273       58 sd21-mi.txt 30NOV2022 
+26 35040 Waldron Area Schools                                                         2113      338       65 sd21-mi.txt 30NOV2022 
+26 35130 Walkerville Rural Community School District                                  1577      304       77 sd21-mi.txt 30NOV2022 
+26 35160 Walled Lake Consolidated Schools                                           109831    15758      980 sd21-mi.txt 30NOV2022 
+26 35190 Warren Consolidated Schools                                                118587    16524     3267 sd21-mi.txt 30NOV2022 
+26 35220 Warren Woods Public Schools                                                 21600     3109      503 sd21-mi.txt 30NOV2022 
+26 35310 Waterford School District                                                   76465     9706     1031 sd21-mi.txt 30NOV2022 
+26 35340 Watersmeet Township School District                                          1454      188       53 sd21-mi.txt 30NOV2022 
+26 35460 Watervliet School District                                                   6225     1041      237 sd21-mi.txt 30NOV2022 
+26 35520 Waverly Community Schools                                                   20048     2808      431 sd21-mi.txt 30NOV2022 
+26 35550 Wayland Union Schools                                                       20264     3869      301 sd21-mi.txt 30NOV2022 
+26 00015 Wayne-Westland Community School District                                    90268    13651     2931 sd21-mi.txt 30NOV2022 
+26 35730 Webberville Community Schools                                                3879      707       94 sd21-mi.txt 30NOV2022 
+26 35790 Wells Township School District                                                204       24        5 sd21-mi.txt 30NOV2022 
+26 35820 West Bloomfield School District                                             32197     4656      304 sd21-mi.txt 30NOV2022 
+26 35850 West Branch-Rose City Area Schools                                          16346     2222      462 sd21-mi.txt 30NOV2022 
+26 32910 West Iron County Public Schools                                              7308     1016      248 sd21-mi.txt 30NOV2022 
+26 35910 West Ottawa Public School District                                          52728     9426      798 sd21-mi.txt 30NOV2022 
+26 35940 Western School District                                                     13130     2198      253 sd21-mi.txt 30NOV2022 
+26 11640 Westwood Community Schools                                                  19280     3360     1207 sd21-mi.txt 30NOV2022 
+26 35970 Westwood Heights Schools                                                     5244      922      351 sd21-mi.txt 30NOV2022 
+26 36060 White Cloud Public Schools                                                   7955     1205      298 sd21-mi.txt 30NOV2022 
+26 36120 White Pigeon Community Schools                                               6391     1039      131 sd21-mi.txt 30NOV2022 
+26 36240 Whitefish Township Schools                                                    474       21       10 sd21-mi.txt 30NOV2022 
+26 36270 Whiteford Agricultural School District                                       4304      708       31 sd21-mi.txt 30NOV2022 
+26 36300 Whitehall School District                                                   12429     2163      218 sd21-mi.txt 30NOV2022 
+26 36330 Whitmore Lake Public Schools                                                 9177     1169       97 sd21-mi.txt 30NOV2022 
+26 36390 Whittemore-Prescott Area Schools                                             7020     1017      344 sd21-mi.txt 30NOV2022 
+26 36420 Williamston Community Schools                                               10481     1838      105 sd21-mi.txt 30NOV2022 
+26 36480 Wolverine Community Schools                                                  2944      414       92 sd21-mi.txt 30NOV2022 
+26 36485 Woodhaven-Brownstown School District                                        34878     5782      708 sd21-mi.txt 30NOV2022 
+26 36540 Wyandotte City School District                                              24796     3458      448 sd21-mi.txt 30NOV2022 
+26 36570 Wyoming Public Schools                                                      36182     5631      784 sd21-mi.txt 30NOV2022 
+26 36600 Yale Public Schools                                                         10893     1871      243 sd21-mi.txt 30NOV2022 
+26 36630 Ypsilanti Community Schools                                                 60405     7837     2186 sd21-mi.txt 30NOV2022 
+26 36660 Zeeland Public Schools                                                      34752     7214      294 sd21-mi.txt 30NOV2022 
