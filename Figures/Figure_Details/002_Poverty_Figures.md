@@ -1,4 +1,4 @@
-#### Information on how data in the `MI_school_poverty.ipynb` notebook was generated
+#### Information on how data in the `002_MI_school_poverty.ipynb` notebook was generated
 
 ---
 
