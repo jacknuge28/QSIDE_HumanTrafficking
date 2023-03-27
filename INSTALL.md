@@ -25,8 +25,8 @@ The notebooks available in the *Figures* subdirectory contain our initial explor
 
 # NOTE: WIP
 
-- **Image_Reproducibility.ipynb** : Contains graphics breaking down the tagging-in-place system used within our data bibliography
-- **MI_school_poverty.ipynb** : A deeper dive into one facet of the broader human trafficking problem, involves analysis of youth poverty rates by county in Michigan from the SAIPE School District Estimates for 2021.
+- **001_Image_Reproducibility.ipynb** : Contains graphics breaking down the tagging-in-place system used within our data bibliography
+- **002_MI_school_poverty.ipynb** : A deeper dive into one facet of the broader human trafficking problem, involves analysis of youth poverty rates by county in Michigan from the SAIPE School District Estimates for 2021.
 
 
 
