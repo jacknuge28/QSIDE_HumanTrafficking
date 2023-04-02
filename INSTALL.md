@@ -23,6 +23,11 @@ In the top level of the QSIDE_HumanTrafficking repository, the data bibliography
 ### 3. Exploratory Notebooks
 The notebooks available in the *Figures* subdirectory contain our initial exploratory work in Jupyter notebooks.
 
+To set up the required environment for these notebooks, use the following commands:
+
+`conda env create --prefix ./envs --file environment.yml`<br>
+`conda activate ./envs`
+
 # NOTE: WIP
 
 - **001_Image_Reproducibility.ipynb** : Contains graphics breaking down the tagging-in-place system used within our data bibliography
