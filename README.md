@@ -16,7 +16,7 @@ For other inquiries about this course, contact Dr. Dirk Colbry (colbrydi@msu.edu
 
 ---
 #### Team Members:
-Aakila Mohammed Rafih<br>
+Aakila Mohamed Rafih<br>
 Jack Nugent<br>
 Tanmay Patel<br>
 Sneha Sundar
