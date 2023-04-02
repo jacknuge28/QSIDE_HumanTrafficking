@@ -1,4 +1,4 @@
-name: myenv
+name: qside_ht_env
 channels:
   - defaults
 dependencies:
