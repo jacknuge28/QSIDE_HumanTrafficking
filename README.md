@@ -43,6 +43,3 @@ QSIDE is a pre-eminent research-into-action organization applying a unique, inno
 See `INSTALL.md` for repository usage instructions.
 <!-- #endregion -->
 
-```python
-
-```
