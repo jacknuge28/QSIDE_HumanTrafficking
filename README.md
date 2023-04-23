@@ -39,6 +39,7 @@ QSIDE is a pre-eminent research-into-action organization applying a unique, inno
 #### Video Links:
 - [Project Proposal](https://youtu.be/sLI0I4gfVz4)
 - [Closed Loop Update Presentation](https://youtu.be/SdwatjWmhlg)
+- [Final Report Out](https://youtu.be/Q7XfxxDDLdc)
 
 ---
 #### Usage Instructions
