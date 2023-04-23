@@ -1,6 +1,8 @@
 <!-- #region -->
 # QSIDE - Human Trafficking
 
+Most American organizations acknowledge that human trafficking is a significant problem. However, measurements on the extend of the problem are inconsistent and/or not well document in publications. Previous investigation into these methods result in the conclusion that most measures are just WAGs (Wildly Approximated Guesses). The purpose of this project is to explore potential sources of public data to get a true handle on the extent of the human trafficking problem.
+
 ### CMSE 495 Spring '23 Capstone Project<br>
 Michigan State University's Data Science Capstone course is intended to provide students with an opportunity to put together what they have learned across multiple courses to develop a final project that demonstrates their ability to work in a team on real-world problems.
 
