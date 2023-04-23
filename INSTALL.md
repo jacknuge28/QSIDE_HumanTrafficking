@@ -13,7 +13,7 @@ The following command can be used to access and clone the repository to your loc
 
 
 ### 2. Accessing the Data Bibliography
-In the top level of the QSIDE_HumanTrafficking repository, the data bibliography in a tabled format is available within `DataBibliography.xlsx`. 
+In the top level of the QSIDE_HumanTrafficking repository, the data bibliography in a tabled format is available within `DataBibliography.xlsx` and `DataBibliography.csv`. 
 
 <!-- #region -->
 ---
