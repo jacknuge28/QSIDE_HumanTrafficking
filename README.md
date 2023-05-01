@@ -44,5 +44,8 @@ QSIDE is a pre-eminent research-into-action organization applying a unique, inno
 ---
 #### Usage Instructions
 See `INSTALL.md` for repository usage instructions.
+
+See `Final_Project_Report.pdf` for a more detailed write-up of our methodology and results.
 <!-- #endregion -->
+
 
