@@ -43,9 +43,9 @@ QSIDE is a pre-eminent research-into-action organization applying a unique, inno
 
 ---
 #### Usage Instructions
-See `INSTALL.md` for repository usage instructions.
+See [`INSTALL.md`](https://github.com/jacknuge28/QSIDE_HumanTrafficking/blob/main/INSTALL.md) for repository usage instructions.
 
-See `Final_Project_Report.pdf` for a more detailed write-up of our methodology and results.
+See [`Final_Project_Report.pdf`](https://github.com/jacknuge28/QSIDE_HumanTrafficking/blob/main/Final_Project_Report.pdf) for a more detailed write-up of our methodology and results.
 <!-- #endregion -->
 
 
